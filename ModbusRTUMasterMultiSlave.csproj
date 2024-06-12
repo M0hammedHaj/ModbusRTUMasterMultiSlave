@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9407AA30-CD3E-4D7E-A026-B110FF297EB7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ModbusRTUMasterMultiSlave</RootNamespace>
+    <AssemblyName>ModbusRTUMasterMultiSlave</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EasyModbus, Version=5.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\EasyModbusTCP.5.6.0\lib\net40\EasyModbus.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsGlobal.cs" />
+    <Compile Include="FmErrorsHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmErrorsHistory.Designer.cs">
+      <DependentUpon>FmErrorsHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmMonitor.Designer.cs">
+      <DependentUpon>FmMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmControl.Designer.cs">
+      <DependentUpon>FmControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmUpdateVoltRanges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmUpdateVoltRanges.Designer.cs">
+      <DependentUpon>FmUpdateVoltRanges.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmHome.Designer.cs">
+      <DependentUpon>FmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmVoltRanges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmVoltRanges.Designer.cs">
+      <DependentUpon>FmVoltRanges.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FmErrorsHistory.resx">
+      <DependentUpon>FmErrorsHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmMonitor.resx">
+      <DependentUpon>FmMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmControl.resx">
+      <DependentUpon>FmControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmUpdateVoltRanges.resx">
+      <DependentUpon>FmUpdateVoltRanges.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmHome.resx">
+      <DependentUpon>FmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmVoltRanges.resx">
+      <DependentUpon>FmVoltRanges.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ModbusProject_BusinessLayer\ModbusProject_BusinessLayer.csproj">
+      <Project>{07c126f5-8da3-4f68-a782-83363701135e}</Project>
+      <Name>ModbusProject_BusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_1978 copy 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_arrow_1546.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearlist_1191.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearlist_1191 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\220_F_96289171_YnVDJ6Jzd4hiMed28gS50b3D9x01Vamu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file_type_volt_icon_130086.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-solar-panel-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monitor_Mode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitoring.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitoring %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitoring %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\control_panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\issue_log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ups.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disconnect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SolarPanelsBackground.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

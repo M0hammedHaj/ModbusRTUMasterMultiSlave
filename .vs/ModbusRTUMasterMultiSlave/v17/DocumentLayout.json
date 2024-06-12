@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6678A618-E155-4EB0-9D3B-63DE37D0D579}|..\\Modbus_DataAccessLayer\\Modbus_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\modbus_dataaccesslayer\\clserrorshistorydataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C126F5-8DA3-4F68-A782-83363701135E}|..\\ModbusProject_BusinessLayer\\ModbusProject_BusinessLayer.csproj|c:\\users\\asus\\source\\repos\\modbusproject_businesslayer\\clserrorshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6678A618-E155-4EB0-9D3B-63DE37D0D579}|..\\Modbus_DataAccessLayer\\Modbus_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\modbus_dataaccesslayer\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmupdatevoltranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmupdatevoltranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmvoltranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmvoltranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmerrorshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmerrorshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmerrorshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmerrorshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmvoltranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmvoltranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\fmupdatevoltranges.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9407AA30-CD3E-4D7E-A026-B110FF297EB7}|ModbusRTUMasterMultiSlave.csproj|solutionrelative:fmupdatevoltranges.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmHome.cs",
+              "RelativeDocumentMoniker": "FmHome.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmHome.cs [Design]",
+              "RelativeToolTip": "FmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:08:14.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FmMonitor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmMonitor.cs",
+              "RelativeDocumentMoniker": "FmMonitor.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmMonitor.cs [Design]",
+              "RelativeToolTip": "FmMonitor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:21:11.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FmMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmMonitor.cs",
+              "RelativeDocumentMoniker": "FmMonitor.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmMonitor.cs",
+              "RelativeToolTip": "FmMonitor.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAYwM4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:16:31.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsErrorsHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusProject_BusinessLayer\\clsErrorsHistory.cs",
+              "RelativeDocumentMoniker": "..\\ModbusProject_BusinessLayer\\clsErrorsHistory.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusProject_BusinessLayer\\clsErrorsHistory.cs",
+              "RelativeToolTip": "..\\ModbusProject_BusinessLayer\\clsErrorsHistory.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwF8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:55:08.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsErrorsHistoryDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Modbus_DataAccessLayer\\clsErrorsHistoryDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\Modbus_DataAccessLayer\\clsErrorsHistoryDataAccess.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Modbus_DataAccessLayer\\clsErrorsHistoryDataAccess.cs",
+              "RelativeToolTip": "..\\Modbus_DataAccessLayer\\clsErrorsHistoryDataAccess.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAAwPMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:36:08.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Modbus_DataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\Modbus_DataAccessLayer\\clsDataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Modbus_DataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "..\\Modbus_DataAccessLayer\\clsDataAccessSettings.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:52:55.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FmHome.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmHome.cs",
+              "RelativeDocumentMoniker": "FmHome.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmHome.cs",
+              "RelativeToolTip": "FmHome.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAYwKMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:41:15.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FmControl.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmControl.cs",
+              "RelativeDocumentMoniker": "FmControl.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmControl.cs",
+              "RelativeToolTip": "FmControl.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAIAwwHgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:20:51.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FmControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmControl.cs",
+              "RelativeDocumentMoniker": "FmControl.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmControl.cs [Design]",
+              "RelativeToolTip": "FmControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:13:34.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FmUpdateVoltRanges.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmUpdateVoltRanges.cs",
+              "RelativeDocumentMoniker": "FmUpdateVoltRanges.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmUpdateVoltRanges.cs [Design]",
+              "RelativeToolTip": "FmUpdateVoltRanges.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:07:14.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FmErrorsHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmErrorsHistory.cs",
+              "RelativeDocumentMoniker": "FmErrorsHistory.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmErrorsHistory.cs*",
+              "RelativeToolTip": "FmErrorsHistory.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:04:08.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FmVoltRanges.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmVoltRanges.cs",
+              "RelativeDocumentMoniker": "FmVoltRanges.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmVoltRanges.cs",
+              "RelativeToolTip": "FmVoltRanges.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvwsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:30:27.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FmHome.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmHome.Designer.cs",
+              "RelativeDocumentMoniker": "FmHome.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmHome.Designer.cs",
+              "RelativeToolTip": "FmHome.Designer.cs",
+              "ViewState": "AQIAAFQBAAAAAAAAAADgv1QBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:27:23.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-31T09:05:17.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FmErrorsHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmErrorsHistory.cs",
+              "RelativeDocumentMoniker": "FmErrorsHistory.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmErrorsHistory.cs [Design]*",
+              "RelativeToolTip": "FmErrorsHistory.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:03:28.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FmVoltRanges.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmVoltRanges.cs",
+              "RelativeDocumentMoniker": "FmVoltRanges.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmVoltRanges.cs [Design]",
+              "RelativeToolTip": "FmVoltRanges.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:28:50.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FmUpdateVoltRanges.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmUpdateVoltRanges.Designer.cs",
+              "RelativeDocumentMoniker": "FmUpdateVoltRanges.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ModbusRTUMasterMultiSlave\\FmUpdateVoltRanges.Designer.cs",
+              "RelativeToolTip": "FmUpdateVoltRanges.Designer.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAADgv7YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:25:29.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

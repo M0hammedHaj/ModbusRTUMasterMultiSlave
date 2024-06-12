@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusRTUMasterMultiSlave", "ModbusRTUMasterMultiSlave.csproj", "{9407AA30-CD3E-4D7E-A026-B110FF297EB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusProject_BusinessLayer", "..\ModbusProject_BusinessLayer\ModbusProject_BusinessLayer.csproj", "{07C126F5-8DA3-4F68-A782-83363701135E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modbus_DataAccessLayer", "..\Modbus_DataAccessLayer\Modbus_DataAccessLayer.csproj", "{6678A618-E155-4EB0-9D3B-63DE37D0D579}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Modbus RTU Master Multi Slave", "..\Modbus RTU Master Multi Slave\Modbus RTU Master Multi Slave.vdproj", "{672DFAD0-BB0F-46A6-BED6-4B63F44792C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9407AA30-CD3E-4D7E-A026-B110FF297EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9407AA30-CD3E-4D7E-A026-B110FF297EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9407AA30-CD3E-4D7E-A026-B110FF297EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9407AA30-CD3E-4D7E-A026-B110FF297EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C126F5-8DA3-4F68-A782-83363701135E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C126F5-8DA3-4F68-A782-83363701135E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C126F5-8DA3-4F68-A782-83363701135E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C126F5-8DA3-4F68-A782-83363701135E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6678A618-E155-4EB0-9D3B-63DE37D0D579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6678A618-E155-4EB0-9D3B-63DE37D0D579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6678A618-E155-4EB0-9D3B-63DE37D0D579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6678A618-E155-4EB0-9D3B-63DE37D0D579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672DFAD0-BB0F-46A6-BED6-4B63F44792C1}.Debug|Any CPU.ActiveCfg = Debug
+		{672DFAD0-BB0F-46A6-BED6-4B63F44792C1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA58F6FA-0B3A-4ABA-BD8C-0A3AADEAD5E8}
+	EndGlobalSection
+EndGlobal
